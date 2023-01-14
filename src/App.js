@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <h1>sasa</h1>
         <p>sasa 💗 Sampath</p>
+        <p>but sasa not love sampa</p>
       </header>
     </div>
   );
